@@ -4,5 +4,5 @@ __pycache__
 *.jsonl
 *.json
 venv/
-.idea
+/.idea
 /media
